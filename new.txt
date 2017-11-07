@@ -1,1 +1,3 @@
 new file at origin master
+
+test of git diff master origin/master
